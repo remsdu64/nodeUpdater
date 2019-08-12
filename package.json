@@ -1,0 +1,19 @@
+{
+  "name": "nodeupdater",
+  "version": "1.0.0",
+  "description": "node updater system based on github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remsdu64/nodeUpdater.git"
+  },
+  "author": "Remy FAYET",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/remsdu64/nodeUpdater/issues"
+  },
+  "homepage": "https://github.com/remsdu64/nodeUpdater#readme"
+}
